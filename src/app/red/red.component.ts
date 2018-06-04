@@ -5,6 +5,6 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <div class="wrapper"></div>
   `,
-  styles: ['div.wrapper { width: 500px; height: 500px; background-color: red; }']
+  styles: ['div.wrapper { width: 500px; height: 500px; background-color: black; }']
 })
 export class RedComponent {}
