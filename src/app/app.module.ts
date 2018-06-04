@@ -21,6 +21,6 @@ import { GoogleMapComponent } from './google-map/google-map.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [GoogleMapComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
